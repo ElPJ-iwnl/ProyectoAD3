@@ -1,0 +1,7 @@
+    <resources>
+        <string name="app_name">Proyecto3</string>
+        <string name="hint_nombre">Nombre</string>
+        <string name="hint_email">Email</string>
+        <string name="btn_guardar">Guardar</string>
+        <string name="btn_ver_usuarios">Ver Usuarios</string>
+    </resources>
