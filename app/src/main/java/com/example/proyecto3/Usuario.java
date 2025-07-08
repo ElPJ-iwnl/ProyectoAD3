@@ -2,9 +2,9 @@ package com.example.proyecto3;
 
 public class Usuario {
 
-    int id;
-    String nombre;
-    String email;
+    private int id;
+    private String nombre;
+    private String email;
 
     public Usuario(int id, String nombre, String email) {
         this.id = id;
